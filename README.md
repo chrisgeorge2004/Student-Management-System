@@ -1,5 +1,6 @@
 # Student-Management-System
-a centralised digital platform designed to automate and manage an educational institution's academic and administrative operations.
+a console-based application developed using the C programming language.
+It helps manage student information through file handling.
 
 
 # Built with:
