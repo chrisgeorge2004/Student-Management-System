@@ -21,4 +21,4 @@ It helps manage student information through file handling.
 - Standard C Libraries
 
 # Output 
-
+https://onecompiler.com/c/458nqb6zg
